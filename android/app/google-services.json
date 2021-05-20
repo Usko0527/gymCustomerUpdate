@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "488933736517",
+    "firebase_url": "https://gym-booking-42198-default-rtdb.firebaseio.com",
+    "project_id": "gym-booking-42198",
+    "storage_bucket": "gym-booking-42198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488933736517:android:448fae4fee0133add8a32c",
+        "android_client_info": {
+          "package_name": "com.example.gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488933736517-dc8abtknni0t8bk9ujvd1f8sm7tn06rg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gym",
+            "certificate_hash": "c2283292216604d6da5a55dba33f363f6a31616b"
+          }
+        },
+        {
+          "client_id": "488933736517-n9691elldktuocm7j3d1u96e91ql2bkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIpHDMOznl_pk-KuC9inQPtJ0A5qHItI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488933736517-n9691elldktuocm7j3d1u96e91ql2bkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488933736517:android:d2c178a764574cfbd8a32c",
+        "android_client_info": {
+          "package_name": "com.example.gym_admin_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488933736517-n9691elldktuocm7j3d1u96e91ql2bkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIpHDMOznl_pk-KuC9inQPtJ0A5qHItI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488933736517-n9691elldktuocm7j3d1u96e91ql2bkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488933736517:android:1b394e5757a065a3d8a32c",
+        "android_client_info": {
+          "package_name": "com.example.gym_customer_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488933736517-n9691elldktuocm7j3d1u96e91ql2bkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIpHDMOznl_pk-KuC9inQPtJ0A5qHItI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488933736517-n9691elldktuocm7j3d1u96e91ql2bkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488933736517:android:4ad1d0bd3a7fc125d8a32c",
+        "android_client_info": {
+          "package_name": "com.example.gym_customer_update"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488933736517-n9691elldktuocm7j3d1u96e91ql2bkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIpHDMOznl_pk-KuC9inQPtJ0A5qHItI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488933736517-n9691elldktuocm7j3d1u96e91ql2bkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488933736517:android:e1086b2c2819592ed8a32c",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488933736517-n9691elldktuocm7j3d1u96e91ql2bkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIpHDMOznl_pk-KuC9inQPtJ0A5qHItI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488933736517-n9691elldktuocm7j3d1u96e91ql2bkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
